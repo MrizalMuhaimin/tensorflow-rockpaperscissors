@@ -8,5 +8,5 @@ https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rock
 ![Unduh Data](./ss1.png)
 ![Pembuatan model TF](./ss2.png)
 ![hasil test data](./ss3.png)
-[visualisasi hasil fit]
+![visualisasi hasil fit](./ss5.png)
 ![Prediksi gambar masukan dari user](./ss4.png)
